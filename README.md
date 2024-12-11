@@ -24,3 +24,24 @@ Date : 09-12-2024
                     12)git checkout main : to move to main branch
 
                     13)git log : Check commit history.
+
+
+
+
+Date : 10-12-2024
+   Topics Covered : 1)git pull : to move into the local from remote.
+   
+                    2)git merge : Git merge <branch name>  .
+                    
+                    3)Git clone URL
+                    
+                    4) Git clone —branch <branch name> URL.
+
+                    5) Nano <file name> : to edit text in file. after ctrl+x then y to exit from edit
+
+                    6)Cat <file name>  : to see the content inside file.
+
+                    7)git fetch : its update rempote but can't update local
+                        git merge  then update local.
+
+                   8)git diff origin/main : is used to compare the changes in your local repository with the remote main branch, typically the origin/main branch, which is the main branch of your remote repository
