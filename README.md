@@ -45,3 +45,18 @@ Date : 10-12-2024
                         git merge  then update local.
 
                    8)git diff origin/main : is used to compare the changes in your local repository with the remote main branch, typically the origin/main branch, which is the main branch of your remote repository
+
+
+
+
+
+Date : 11-12-2024
+    Topics Covered : 1) git orphan branch
+    
+                     2)git rebase
+                     
+                     3)git stash
+                     
+                     4)git branch -d feature-branch      # Delete locally (safe)
+                       git branch -D feature-branch   #If you need to force delete locally due to unmerged changes.
+                       git push origin --delete feature-branch  # Delete from remote
