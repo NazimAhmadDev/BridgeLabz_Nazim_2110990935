@@ -15,7 +15,7 @@ Date : 09-12-2024
 
                     8)git branch : to check the existing branch
 
-                    9)git commit -m "[shivam] Add: new feature file added "
+                    9)git commit -m "[nazimahmad] Add: new feature file added "
 
                     10)git push -u origin main: is used to push your local main branch to a remote repository 
 
