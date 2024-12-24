@@ -60,3 +60,17 @@ Date : 11-12-2024
                      4)git branch -d feature-branch      # Delete locally (safe)
                        git branch -D feature-branch   #If you need to force delete locally due to unmerged changes.
                        git push origin --delete feature-branch  # Delete from remote
+
+
+
+
+Date : 13-12-2024
+    Topics Covered : 1) calculator creation
+    
+                     2) Factorial program
+                     
+                     3) String methods
+
+                     4) functions
+
+                     5) List_tuples
