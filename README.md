@@ -60,3 +60,21 @@ Date : 11-12-2024
                      4)git branch -d feature-branch      # Delete locally (safe)
                        git branch -D feature-branch   #If you need to force delete locally due to unmerged changes.
                        git push origin --delete feature-branch  # Delete from remote
+Date : 23-12-2024
+   Topics Covered : 1) File handling
+
+                    2) Exception handling
+
+                    3) Text processing
+
+                    5) Modules
+
+                    6) Executing modules as script
+
+                    7) Virtual environment(venv)
+
+                    8) Dunger / Magic method
+
+                    9) The dir() function
+
+                    10) Modules search path
