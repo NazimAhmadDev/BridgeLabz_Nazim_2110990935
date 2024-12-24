@@ -70,3 +70,17 @@ Date : 12-12-2024 Topics Covered : 1) Basics of python
                  3) calculator
 
                  4) factorial program
+
+
+
+Date : 13-12-2024 Topics Covered : 1) calculator creation
+
+                 2) Factorial program
+                 
+                 3) String methods
+
+                 4) functions
+
+                 5) List_tuples
+                 
+                 6) Dictionaries and Sets
