@@ -84,3 +84,15 @@ Date : 13-12-2024 Topics Covered : 1) calculator creation
                  5) List_tuples
                  
                  6) Dictionaries and Sets
+
+
+
+
+
+Date : 19-12-2024 Topics Covered : 1) List_comprehensions
+
+                 2) Lambda function
+                 
+                 3) Maps and filters
+
+                 4) OOPs basic (method and class)
