@@ -63,7 +63,7 @@ Date : 11-12-2024
 
 
 
-Date : 11-12-2024
+Date : 19-12-2024
     Topics Covered : 1) List_comprehensions
     
                      2) Lambda function
