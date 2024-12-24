@@ -96,3 +96,25 @@ Date : 19-12-2024 Topics Covered : 1) List_comprehensions
                  3) Maps and filters
 
                  4) OOPs basic (method and class)
+
+
+
+
+
+Date : 23-12-2024 Topics Covered : 1) File handling
+
+                2) Exception handling
+
+                3) Text processing
+
+                5) Modules
+
+                6) Executing modules as script
+
+                7) Virtual environment(venv)
+
+                8) Dunger / Magic method
+
+                9) The dir() function
+
+                10) Modules search path
