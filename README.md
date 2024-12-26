@@ -118,3 +118,8 @@ Date : 23-12-2024 Topics Covered : 1) File handling
                 9) The dir() function
 
                 10) Modules search path
+
+
+
+
+Date : 24-12-2024 Topics Covered : 1) RegEx
