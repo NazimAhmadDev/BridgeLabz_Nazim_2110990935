@@ -132,7 +132,9 @@ Date : 05-01-2025 : Data Structures, Function practice, Strings practice, I/O pr
 
 
 Date : 06-01-2025 : 1) Pydantic topic in python
+
                     2) Typing modules
+                    
                     3) Design Principles
 
 
