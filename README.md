@@ -125,8 +125,24 @@ Date : 23-12-2024 Topics Covered : 1) File handling
 Date : 24-12-2024 Topics Covered : 1) RegEx
 
 
+Date : 26-12-2024 : Python practice problems pdf to solve for winter vacation
 
-Date : 26-12-2024 Topics Covered : Python practice problems pdf to solve for winter vacation
+
+Date : 05-01-2025 : Data Structures, Function practice, Strings practice, I/O practice problems
 
 
-Date : 24-12-2024 Topics Covered : 1) RegEx
+Date : 06-01-2025 : 1) Pydantic topic in python
+                    2) Typing modules
+                    3) Design Principles
+
+
+Date : 07-01-2025 to 10-01-2025 : Solved Usecases for AddressBook
+
+
+Date : 13-01-2025 : Stacks Basics
+
+
+Date : 14-01-2025 : Stacks and practice problems
+
+
+Date : 15-01-2025 : Queues and practice problems
