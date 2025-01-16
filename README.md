@@ -123,3 +123,10 @@ Date : 23-12-2024 Topics Covered : 1) File handling
 
 
 Date : 24-12-2024 Topics Covered : 1) RegEx
+
+
+
+Date : 26-12-2024 Topics Covered : Python practice problems pdf to solve for winter vacation
+
+
+Date : 24-12-2024 Topics Covered : 1) RegEx
